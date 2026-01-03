@@ -14,7 +14,10 @@ This project is ideal for practicing **layout design, responsiveness, and modern
 
 ## 📸 Preview
 
-![LOC-Mascot](https://learncodeonline.in/mascot.png)![badge](https://img.shields.io/badge/LearnCodeOnline-iNeuron-green)
+![LOC-Mascot](https://learncodeonline.in/mascot.png)
+
+
+![badge](https://img.shields.io/badge/LearnCodeOnline-iNeuron-green)
 
 ![1](https://user-images.githubusercontent.com/110910838/209376487-83621777-4433-4f3b-bdf0-4e8243e7dd89.png)
 ![2](https://user-images.githubusercontent.com/110910838/209376495-60e264fb-7b1b-4916-8fc4-916a64c33170.png)
